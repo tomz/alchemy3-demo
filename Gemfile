@@ -22,6 +22,7 @@ gem 'turbolinks'#, '2.1.0'
 gem "zurb-foundation"
 #gem 'mysql2'
 gem 'pg'
+gem 'unicorn'
 
 group :development do
   gem 'capistrano', '~> 2.15'
